@@ -1,0 +1,9 @@
+[[NEO]]
+arch = "x86_64"
+git-tree-sha1 = "790c7a8bd73b22937c94650456fc393d09c65600"
+libc = "glibc"
+os = "linux"
+
+    [[NEO.download]]
+    sha256 = "b93577f713f4ad989858c79e35232a989ac75bd330d8f356a8f1bd99f4633657"
+    url = "https://github.com/michel2323/NEO_jll.jl/releases/download/NEO-v22.43.24558+0/NEO.v22.43.24558.x86_64-linux-gnu.tar.gz"
